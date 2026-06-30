@@ -14,7 +14,6 @@ HELIOS • DataForge CLI • The future of RGS Labs™
 
 <br>
 
-<img src="assets/logos/rgslabs-logo.png" width="130" alt="RGS Labs Logo"/>
 
 # RGS Labs™
 
@@ -29,7 +28,7 @@ immersive games and premium digital experiences.
 
 <br>
 
-<a href="https://rab-ai-repository.vercel.app/">
+<a href="https://rabbitgamesdev.github.io/RGS-Labs/">
 <img src="https://img.shields.io/badge/🌐_Website-Visit-2563EB?style=for-the-badge">
 </a>
 
