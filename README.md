@@ -357,7 +357,7 @@ This profile is actively maintained, with projects receiving regular improvement
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,vercel,linux,windows"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,vercel,windows"/>
 
 
 </div>
