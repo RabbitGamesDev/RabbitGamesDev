@@ -29,19 +29,19 @@ immersive games and premium digital experiences.
 <br>
 
 <a href="https://rabbitgamesdev.github.io/RGS-Labs/">
-<img src="https://img.shields.io/badge/🌐_Website-Visit-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_Website Visit-2563EB?style=for-the-badge">
 </a>
 
-<a href="https://gamejolt.com/@RGS_Labs">
-<img src="https://img.shields.io/badge/🎮_GameJolt-Profile-CCFF00?style=for-the-badge">
+<a href="https://www.instagram.com/rgs_labs/">
+<img src="https://img.shields.io/badge/🎮_Instagram Profile-CCFF00?style=for-the-badge">
 </a>
 
 <a href="mailto:rgslabs.contact@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge">
+<img src="https://img.shields.io/badge/📧_Email Contact-EA4335?style=for-the-badge">
 </a>
 
 <a href="https://github.com/RabbitGamesDev">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub Follow-181717?style=for-the-badge&logo=github">
 </a>
 
 <br><br>
@@ -184,6 +184,10 @@ Analyze, understand and document complex projects directly from your terminal us
 
 <br>
 
+<a href="https://rabbitgamesdev.github.io/DataForge-CLI_Website/">
+<img src="https://img.shields.io/badge/Open_Website-2563EB?style=for-the-badge">
+</a>
+
 <a href="https://github.com/RabbitGamesDev/DataForge-CLI">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 </a>
@@ -208,36 +212,34 @@ Analyze, understand and document complex projects directly from your terminal us
 
 <td width="50%">
 
-<img src="assets/projects/rabai-preview.png" width="100%">
+<img src="assets/projects/myticket-preview.png" width="100%">
 
 </td>
 
 <td width="50%">
 
-### 🤖 RabAI
+### 🧾 MyTicket
 
-**AI platform by RGS Labs**
+**Smart Receipt & Family Finance Management PWA**
 
-A web-based AI assistant designed to provide accessible artificial intelligence through an intuitive interface.
+A mobile-first progressive web app built to transform family financial management by eliminating friction, tracking invisible spending, and revealing true available income.
 
 **Highlights**
 
-- 💬 AI conversations
-- 🌐 Web platform
-- ⚡ Fast responses
-- 🎯 Clean interface
+- 📸 Camera & photo receipt scanning
+- 💵 Real Available Money calculation
+- 🔍 Invisible Leaks Radar ("Fugas Invisibles")
+- 🚨 Debt Rescue Route mapping
+- 🤖 Contextual personalized AI coach
 
 **Tech**
 
-`HTML`
+`JavaScript` `CSS3` `PWA` `Cloudflare Workers` `Groq API`
 
 <br>
 
-<a href="https://rab-ai-repository.vercel.app/">
-<img src="https://img.shields.io/badge/Open_Website-2563EB?style=for-the-badge">
-</a>
 
-<a href="https://github.com/RabbitGamesDev/RabAI-repository">
+<a href="https://github.com/RabbitGamesDev/MyTicket-Repo">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
 </a>
 
@@ -276,6 +278,11 @@ Designed as the digital home of every project developed inside the ecosystem.
 
 <br>
 
+
+<a href="https://rabbitgamesdev.github.io/RGS-Labs/">
+<img src="https://img.shields.io/badge/Open_Website-2563EB?style=for-the-badge">
+</a>
+
 <a href="https://github.com/RabbitGamesDev/RGS-Labs">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
 </a>
@@ -300,23 +307,35 @@ Designed as the digital home of every project developed inside the ecosystem.
 
 <td width="50%">
 
-<img src="assets/projects/helios-preview.png" width="100%">
+<img src="assets/projects/rgs-content-forge-preview.png" width="100%">
 
 </td>
 
 <td width="50%">
 
-# 🚧 HELIOS (Internal AI platform for the RGS Labs™ ecosystem.)
+### ⚡ RGS Content Forge — Multimodal Edition
 
-### Coming Soon
+**Zero-Backend Content Engine by RGS Labs**
 
-The next-generation AI ecosystem currently under development.
+A lightweight multimodal prompt engine that transforms screenshots, code, and videos into tailored social media content while preserving an authentic devlog voice.
 
-Designed to become the flagship intelligent assistant for RGS Labs™.
+**Highlights**
 
-**Status**
+- 📸 Multi-Format processing (Images, Code, Videos)
+- 🎯 Platform-targeted outputs (X, IG, LinkedIn, Devlog)
+- ⚡ Live in-card content refinement
+- 🔑 100% Client-side with local API key storage
 
-🟡 In Development
+**Tech**
+
+`JavaScript` `CSS3` `HTML5` `Gemini API`
+
+<br>
+
+
+<a href="https://github.com/RabbitGamesDev/RGS-CONTENT_FORGE">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
 
 </td>
 
@@ -357,8 +376,7 @@ This profile is actively maintained, with projects receiving regular improvement
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,vercel,windows"/>
-
+<img src="https://skillicons.dev/icons?i=python,js,html,css,github,vscode,vercel,windows,supabase,chatgpt,gemini"/>
 
 </div>
 
@@ -443,16 +461,16 @@ Maybe this profile is the proof that you don't have to wait to begin.
 ### Learn tomorrow.
 ### Keep building.
 
-P.S.
-
-I'm still a student.
-
-Everything you see here has been built while learning,
-experimenting and making mistakes.
-
-If I can build this today...
-
-imagine what comes next.
+> [!P.S.]
+>
+> I'm still a student.
+>
+> Everything you see here has been built while learning,
+> experimenting and making mistakes.
+>
+> If I can build this today...
+>
+> imagine what comes next.
 
 </div>
 
