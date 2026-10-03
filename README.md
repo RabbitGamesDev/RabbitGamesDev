@@ -22,10 +22,10 @@
     <img src="https://img.shields.io/badge/🌐_Official_Website-2563EB?style=for-the-badge&logoColor=white" alt="Website"/>
   </a>
   <a href="https://www.instagram.com/rgs_labs/">
-    <img src="https://img.shields.io/badge/🎮_Instagram-CCFF00?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/_Instagram-CCFF00?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
   </a>
   <a href="mailto:rgslabs.contact@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/_Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/RabbitGamesDev">
     <img src="https://img.shields.io/badge/GitHub_Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
