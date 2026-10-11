@@ -300,7 +300,7 @@ Every repository at **RGS Labs™** evolves continuously through experimentation
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
   <img src="https://img.shields.io/badge/Groq_Cloud-F05032?style=for-the-badge&logo=fastapi&logoColor=white" alt="Groq"/>
-  <img src="https://img.shields.io/badge/Kimi_AI-000000?style=for-the-badge&logo=apacheratapi&logoColor=white" alt="Kimi AI"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=apacheratapi&logoColor=white" alt="Cursor"/>
 
 </div>
 
